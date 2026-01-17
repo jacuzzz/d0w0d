@@ -1,0 +1,13 @@
+{
+  "name": "mobywatell-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "display": "standalone",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
